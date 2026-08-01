@@ -4,7 +4,6 @@
 ## Internet Access and Economic Development: Evidence from Global Panel Data
 
 **Authors**: Georgios Chainis, Nikolaos Koptsis, Lev Ryzvaniuk, Vyronas Trikkalidis  
-**Course**: ECO 1S002 — Topics in Economics  
 **Institution**: École Polytechnique — Institut Polytechnique de Paris  
 **Date**: May 2026
 
